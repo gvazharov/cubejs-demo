@@ -1,0 +1,14 @@
+{
+  "name": "ods-cubejs-demo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "cubejs-server"
+  },
+  "template": "docker",
+  "templateVersion": "0.28.60",
+  "devDependencies": {
+    "@cubejs-backend/oracle-driver": "^0.28.60",
+    "@cubejs-backend/server": "^0.28.60"
+  }
+}
